@@ -1,1 +1,1 @@
-<xml xmlns="https://developers.google.com/blockly/xml"><variables></variables><block type="pxt-on-start" id="b!({fJLgAC!Y2Z|YA/]3" x="0" y="0"><statement name="HANDLER"><block type="writeLED" id="K||om:Wb84NNy*);,Cck"><field name="led">maqueen.LED.LEDLeft</field><field name="ledswitch">maqueen.LEDswitch.turnOn</field></block></statement></block></xml>
+<xml xmlns="https://developers.google.com/blockly/xml"><variables></variables><block type="pxt-on-start" id="b!({fJLgAC!Y2Z|YA/]3" x="0" y="0"></block></xml>
